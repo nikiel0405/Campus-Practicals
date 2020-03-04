@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Practical3Q2.2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Practical3Q2.2.cpp
+  Practical3Q2.2.vcxproj -> Z:\Comp 315 PRACS\Practical3\Practical3Q2.2\Debug\Practical3Q2.exe
