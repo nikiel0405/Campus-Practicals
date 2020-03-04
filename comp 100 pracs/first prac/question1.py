@@ -1,0 +1,5 @@
+vi = input('enter the cars velocity: ')
+a = input('enter the cars acceleration: ')
+t = input('enter the time taken: ')
+vf = int(vi)+int(a)*int(t)
+print('The final velocity is', vf,'m/s')

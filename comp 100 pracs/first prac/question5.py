@@ -1,0 +1,5 @@
+pay = float(input('enter required years: '))
+mor = float(input('enter the ammount to pay: '))
+intrst = float(input('enter rate: '))
+ammount = (mor*((1+(intrst/100))** pay)*(intrst/100))/(((1+intrst/100)**pay)-1)
+print(ammount)
